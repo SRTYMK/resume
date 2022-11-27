@@ -1,0 +1,35 @@
+h1 {
+  color: red;
+  font-size: 200 px;
+}
+
+img {
+  background-color: red;
+}
+
+/* เมื่อเม้าท์ชี้จะเปลี่ยนสีพื้นหลัง */
+img:hover{
+  background-color: gold;
+}
+
+/*class Selector*/
+.bacon {
+  background-color: green;
+}
+
+.grapes {
+  background-color: red;
+}
+.borderNha {
+  border-style: dotted;
+  border-width: 30px;
+}
+.bread {
+  background-color: violet;
+}
+
+/*ID Selector*/
+
+#heading {
+  color: blue;
+}
